@@ -15,22 +15,21 @@ function About() {
 			<Row>
 				<Col xs={8} sm={6} md={6} lg={3} className="center mx-auto mb-lg-5 mb-m-4 mb-3">
 					<img
-						src="C:\Users\pocke\OneDrive\Documents\GitHub\react_portfolio2\src\assets\images\IMG_E1595.JPG"
-						alt="Me"
+						src="self.png"
+						alt="Dan Golden"
 						className="img-fluid rounded-circle"
 					/>
 				</Col>
 
 				<Col xs={12} sm={6} md={6} className="text-center my-auto" id="about">
 					<p>
-						My name is Luke Poirrier, and I currently reside in North Georgia. I have over 10 years of
-						experience in various types of coding. I am currently enrolled at a coding boot camp at the
-						Georgia Institute of Technology(GA Tech) to solidify my foundational knowledge of development.
+					I'm currently enrolled in the University of Washington full stack coding bootcamp course and just
+                    beginning my journey into web development. Previously, I worked as a microbiologist and I'm
+                    branching out to discover a new career.
 					</p>
 					<p>
-						I have experience in front-end web development, working with technologies like AJAX, Bootstrap,
-						CSS, HTML, JavaScript, JSON, Materialize.css, Node.JS, and various other modern development
-						media.
+					During my time here at the University of Washington bootcamp, I've gained experience in HTML, CSS, React.js,
+					JavaScript, Materialize, Bootstrap, Node.js, Mongo.DB, Sequelize, Express, and various other technologies.
 					</p>
 				</Col>
 			</Row>
