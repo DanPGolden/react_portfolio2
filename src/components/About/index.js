@@ -15,7 +15,7 @@ function About() {
 			<Row>
 				<Col xs={8} sm={6} md={6} lg={3} className="center mx-auto mb-lg-5 mb-m-4 mb-3">
 					<img
-						src="https://github.com/lukecp5/react-portfolio/blob/main/src/assets/images/lp-avatar-thumb.jpg?raw=true"
+						src="C:\Users\pocke\OneDrive\Documents\GitHub\react_portfolio2\src\assets\images\IMG_E1595.JPG"
 						alt="Me"
 						className="img-fluid rounded-circle"
 					/>
