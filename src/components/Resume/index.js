@@ -19,9 +19,10 @@ const skillTypes = [
 			"CSS3",
 			"JavaScript",
 			"React",
+			"Materialize",
 			"Redux",
 			"Bootstrap",
-			"Version Control/Git",
+			"Git",
 			"Responsive Design"
 		]
 	}, {
