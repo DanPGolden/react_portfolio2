@@ -19,7 +19,7 @@ function About() {
 				<Col xs={8} sm={6} md={6} lg={3} className="center mx-auto mb-lg-5 mb-m-4 mb-3">
 					<img
 						src="/assets/images/self.png"
-						alt="Dan"
+						alt="Dan Golden"
 						className="img-fluid rounded-circle"
 					/>
 				</Col>
