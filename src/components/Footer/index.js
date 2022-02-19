@@ -8,13 +8,13 @@ function Footer() {
 		<Container className="footer text-center my-auto py-auto">
 			<Row id="social-icons">
 				<Col>
-				<SocialIcon url="https://github.com/lukecp5" target="_blank" rel="noopener noreferrer" />
+				<SocialIcon url="https://github.com/DanPGolden" target="_blank" rel="noopener noreferrer" />
 				</Col>
 			<Col>
-				<SocialIcon url="https://www.linkedin.com/in/luke-poirrier/" target="_blank" rel="noopener noreferrer" />
+				<SocialIcon url="https://www.linkedin.com/in/dan-golden-7b140b21a/" target="_blank" rel="noopener noreferrer" />
 			</Col>
 			<Col>
-				<SocialIcon url="https://stackoverflow.com/users/16159639/luke-poirrier" target="_blank"rel="noopener noreferrer" />
+				<SocialIcon url="https://stackoverflow.com/users/16674540/dangolden" target="_blank"rel="noopener noreferrer" />
 			</Col>
 			</Row>
 		</Container>
