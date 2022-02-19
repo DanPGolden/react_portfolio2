@@ -11,11 +11,11 @@ function About() {
 					</Container>
 				</div>
 			</Row>
-			{/* Image of me and a paragraph next to the picture built in Bootstrap */}
+			
 			<Row>
 				<Col xs={8} sm={6} md={6} lg={3} className="center mx-auto mb-lg-5 mb-m-4 mb-3">
 					<img
-						src="self.png"
+						src="src\assets\images\self.png"
 						alt="Dan Golden"
 						className="img-fluid rounded-circle"
 					/>
