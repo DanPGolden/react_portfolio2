@@ -60,7 +60,7 @@ const skillTypes = [
 				</Row>
 				<Row>
 					<Col className="text-center mb-3">
-						<Button href="">Download My Resume</Button>
+						<Button href="https://github.com/DanPGolden/portfolio3/raw/main/Web%20Designer_Developer%20Resume.pdf">Download My Resume</Button>
 					</Col>
 				</Row>
 				<Row>
