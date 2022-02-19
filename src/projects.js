@@ -18,7 +18,7 @@ const portfolioProjects = [
     },
     {
           name: "Work Scheduler",
-          description: "MyWorkout is a fitness tracking application that allows users to create and track daily workouts and see them visualized.",
+          description: "This is a simple work scheduler that allows users to add and delete appointment data.",
           image: "Work Scheduler0.png",
           technologies: ["jQuery" , "JavaScript", "HTML5", "CSS3",],
           github: "https://github.com/DanPGolden/work_scheduler",
