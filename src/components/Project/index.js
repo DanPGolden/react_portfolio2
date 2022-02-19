@@ -6,7 +6,7 @@ const Project = (props) => {
       const project = props.project;
       return (
                   <Card>
-                        <Card.Img variant="top" src={require('./' + project.image).default} alt={project.name} className="img-fluid rounded-circle"/>
+                        <Card.Img variant="top" src={project.image} alt={project.name} className="img-fluid rounded-circle"/>
                         <Card.Body className="mx-auto">
                               <Card.Title>{project.name.toString()}</Card.Title>
                               {/* <Card.Text>
