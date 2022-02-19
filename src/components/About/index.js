@@ -1,9 +1,9 @@
 import React from "react";
 import {Container, Row, Col} from "react-bootstrap";
-
+// import self from "./assets/images/self.png";
 import "./about.css";
 // import Image from 'react-bootstrap/Image'
-// import pic from "public\assets\images\self.png"
+//  import pic from "/assets/images/self.png"
 function About() {
 	return (
 		<Container>
@@ -18,7 +18,7 @@ function About() {
 			<Row>
 				<Col xs={8} sm={6} md={6} lg={3} className="center mx-auto mb-lg-5 mb-m-4 mb-3">
 					<img
-						src= ".../assets/images/self.png"
+						src="/assets/images/self.png"
 						alt="Dan"
 						className="img-fluid rounded-circle"
 					/>
