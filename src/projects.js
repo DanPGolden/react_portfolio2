@@ -11,7 +11,7 @@ const portfolioProjects = [
     {
           name: "Digital Anvil",
           description: "A videogame review website that provides users with reviews and once they are logged into the site, it allows those users to post their own reviews.",
-          image: "digital anvil-logos_black2.png",
+          image: "DAresize.png",
           technologies: ["Express-handlebars", "Node.js", "Express", "mysql2", "Sequelize", "Materialize", "Express", "JavaScript", "HTML5", "CSS3",],
           github: "https://github.com/DanPGolden/project2",
           live: "https://shrouded-woodland-50128.herokuapp.com/",
