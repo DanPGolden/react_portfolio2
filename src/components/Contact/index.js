@@ -52,7 +52,7 @@ function Contact() {
 		const msg = 'Thank you for your message, ' + name + '! I will get back to you as soon as possible.';
 		setWelcomeMessage(msg);
 
-		// If everything goes according to plan, we want to clear out the input after a successful registration.
+		
 		setName('');
 		setEmail('');
 		setMessage('');
@@ -68,7 +68,7 @@ function Contact() {
 				</div>
 			</Row>
 
-			{/* Image of me and a paragraph next to the picture built in Bootstrap */}
+			
 			<Row>
 				<Container>
 					<Form className="form">
